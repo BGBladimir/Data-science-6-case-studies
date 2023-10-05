@@ -9,3 +9,6 @@ In the following tasks I apply data science techniques to the following 6 depart
 5. Public Relations Department: I develop natural language processing models to analyze customer opinions on social media and identify customer sentiment.
 6. Production / Maintenance Departments: I develop defect detection, classification, and localization models.
 
+## Acknowledgements
+
+##### © Bladimir Garcia, Republica Dominicana
