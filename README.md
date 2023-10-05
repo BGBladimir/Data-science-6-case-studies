@@ -2,7 +2,7 @@
 
 In the following tasks I apply data science techniques to the following 6 departments: 
 
-## Table of Contents
+#### Table of Contents
 1. Human Resources Department: I develop an artificial intelligence model to reduce employee hiring and training costs by predicting which employees may leave the company in the future.
 2. Marketing Department: I optimize the marketing strategy by performing customer segmentation.
 3. Sales Department: I develop time series forecasting models to predict future product prices.
